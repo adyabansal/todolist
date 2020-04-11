@@ -1,0 +1,30 @@
+#ulTasks li.done {
+    color: #6c757d;
+    text-decoration: line-through;
+}
+
+.container {
+    background-color: lightgrey;
+    padding: 30px;
+    margin-top: 30px;
+
+}
+
+.one {
+    padding-left: 2px;
+    border: 30px;
+    
+    background-color: lightgrey;
+}
+
+.two {
+    background-color: lightcyan;
+    font-size: 3vh;
+    padding: 3px;
+}
+
+.three {
+    
+    padding-top: 40px;
+    background-color: darkblue;
+}
